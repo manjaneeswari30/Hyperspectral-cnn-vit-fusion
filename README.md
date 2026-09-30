@@ -1,5 +1,3 @@
-# Hyperspectral-cnn-vit-fusion
-Spectral-Spatial Patch Processing in Hyperspectral Images Using CNN and Vision Transformer Fusion
 # Spectral-Spatial Patch Processing in Hyperspectral Images
 
 ## Project Overview
@@ -33,8 +31,8 @@ The proposed approach uses spectral band selection, spatial patch processing, Co
 
 This repository contains the project research documents:
 
-* `CNN-ViT-Research-Paper.pdf`
-* `MCE-ST-Research-Paper.pdf`
+* `Spectral-Spatial-Patch-Processing-CNN-ViT.pdf`
+* `Patch-wise-Classification-MCE-ST.pdf`
 
 ## Reported Results
 
@@ -45,7 +43,10 @@ The CNN–Vision Transformer approach reported a validation accuracy of **98.11%
 * Sowmiya S
 * Harin M
 * Manjaneeswari A
-Project Guide: Dr. R. Vishnu Priya
+
+## Project Guide
+
+**Dr. R. Vishnu Priya**
 
 ## Institution
 
